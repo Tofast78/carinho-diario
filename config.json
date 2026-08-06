@@ -1,0 +1,11 @@
+{
+  "nome_dela": "Sónia",
+  "assinatura": "Biju",
+
+  "smtp_host": "smtp.gmail.com",
+  "smtp_porta": 465,
+
+  "fuso": "Europe/Lisbon",
+  "hora_envio": 12,
+  "minuto_envio": 59
+}
