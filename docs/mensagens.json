@@ -1,0 +1,1832 @@
+[
+  {
+    "tipo": "carinho",
+    "texto": "Bom dia, meu amor. Acordei e a primeira coisa em que pensei foste tu. 💛",
+    "id": 1
+  },
+  {
+    "tipo": "amor",
+    "texto": "Casar contigo foi a melhor decisão que alguma vez tomei. Sem dúvidas nenhumas. 💍❤️",
+    "id": 2
+  },
+  {
+    "tipo": "picante",
+    "texto": "Só a avisar que hoje à noite não vais precisar do pijama. Poupa-lhe o trabalho. 😏🔥",
+    "id": 3
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de uma forma calma, daquelas que não fazem barulho mas nunca se vão embora. 💞",
+    "id": 4
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Espero que o teu dia seja leve. E se não for, eu estou cá para o carregar contigo. 🤍",
+    "id": 5
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje o dia estiver cinzento, lembra-te que eu sou fã do teu sorriso mesmo quando ele não aparece. 🌦️💗",
+    "id": 6
+  },
+  {
+    "tipo": "amor",
+    "texto": "Cada dia contigo é o meu sítio preferido do mundo. 🌍💛",
+    "id": 7
+  },
+  {
+    "tipo": "picante",
+    "texto": "Encontrei uma coisa linda em casa esta manhã. Estavas a dormir e a babar-te. Mesmo assim, linda. 😍😄",
+    "id": 8
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se voltasse atrás, escolhia-te outra vez. E outra. E outra. ♾️💕",
+    "id": 9
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não tens de estar bem hoje. Só tens de saber que eu estou aqui. 🫂",
+    "id": 10
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Pequeno lembrete: és suficiente. Sempre foste. 🌸",
+    "id": 11
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu não me completas, tu tornas tudo melhor. Que é muito mais bonito. ✨",
+    "id": 12
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso importante: tenho saudades tuas e as minhas mãos também. 🙈❤️‍🔥",
+    "id": 13
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha pessoa. A minha casa. O meu descanso. 🏡💗",
+    "id": 14
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Respira fundo. Um dia de cada vez. Eu vou a teu lado. 🌿",
+    "id": 15
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Obrigado por existires nos meus dias. Até nos dias difíceis. 🤍",
+    "id": 16
+  },
+  {
+    "tipo": "amor",
+    "texto": "Ainda me dás borboletas na barriga e já lá vão estes anos todos. 🦋",
+    "id": 17
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a trabalhar mas a minha cabeça está numa reunião contigo. Sem roupa. Muito produtiva. 😈😂",
+    "id": 18
+  },
+  {
+    "tipo": "amor",
+    "texto": "O meu coração tem o teu nome escrito com letra bem grande. ❤️",
+    "id": 19
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje trata-te bem. Se te esqueceres como, liga-me que eu ensino. 📞💛",
+    "id": 20
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Sabes o que é bonito em ti? Continuares a lutar mesmo quando é difícil. 🌟",
+    "id": 21
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te no bom, no mau e no assim assim. Pacote completo. 💞",
+    "id": 22
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se eu fosse doce, tu eras a colher. Ou o dedo. Depende do teu humor. 🍯😉",
+    "id": 23
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até o silêncio é bom. 🤍",
+    "id": 24
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje só conseguires respirar, já fizeste que chegue. 🌬️💜",
+    "id": 25
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que tenhas um dia manso, cheio de coisas pequenas e boas. ☕💗",
+    "id": 26
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se o amor fosse um sítio, era o teu abraço. 🫂💛",
+    "id": 27
+  },
+  {
+    "tipo": "picante",
+    "texto": "Reservei-te uma massagem. Local: minha cama. Terapeuta: eu. Preço: um beijo. 💆‍♀️😏",
+    "id": 28
+  },
+  {
+    "tipo": "amor",
+    "texto": "Escolho-te outra vez hoje. Como faço todas as manhãs. 💍",
+    "id": 29
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou orgulhoso de ti. Por coisas que tu nem contas a ninguém. 🌷",
+    "id": 30
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não estás sozinha. Nunca estiveste. Nem vais estar. 🤝💗",
+    "id": 31
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a melhor parte de todos os meus dias. 🌞",
+    "id": 32
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a pensar em ti. E não é nada apropriado para o horário laboral. 🔥😅",
+    "id": 33
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo o teu riso. É o meu som preferido do mundo inteiro. 😄❤️",
+    "id": 34
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Podes chorar à vontade. Eu seguro-te enquanto isso. 💧🤍",
+    "id": 35
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Um passo de cada vez, meu amor. Sem pressa nenhuma. 🐢💚",
+    "id": 36
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a razão pela qual eu gosto de voltar para casa. 🏡💞",
+    "id": 37
+  },
+  {
+    "tipo": "picante",
+    "texto": "Proposta indecente: hoje jantamos cedo. E depois... sobremesa demorada. 🍫😈",
+    "id": 38
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi que amor bom é amor calmo. 🕊️",
+    "id": 39
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje mando-te um abraço por escrito. Depois entrego em mão. 🫂",
+    "id": 40
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje estiver pesado, larga o peso ao pé de mim. Eu arrumo. 🧺💛",
+    "id": 41
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se me perguntarem o que tenho de melhor, digo o teu nome. 💗",
+    "id": 42
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje estás proibida de vestir aquela camisa. Distrai-me imenso. 😍🔥",
+    "id": 43
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te em português, em silêncio e em todas as línguas que existirem. 🌍❤️",
+    "id": 44
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tua força não se mede pelos dias bons. Mede-se por estes. 🌱",
+    "id": 45
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Bebe água, come qualquer coisa, e lembra-te que és amada. 💧🍎🤍",
+    "id": 46
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu lugar favorito para voltar. Sempre. 💛",
+    "id": 47
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se te contasse o que sonhei esta noite, ficavas vermelha. E depois curiosa. 😏💋",
+    "id": 48
+  },
+  {
+    "tipo": "amor",
+    "texto": "Ainda hoje olho para ti e penso que tive muita sorte. 🍀💕",
+    "id": 49
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Os dias maus não te definem. Definem-te as vezes que te levantaste. 🌄",
+    "id": 50
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou aqui. Não vou a lado nenhum. Prometido. 🤍",
+    "id": 51
+  },
+  {
+    "tipo": "amor",
+    "texto": "O meu coração bate num ritmo que tem o teu nome. ❤️‍🔥",
+    "id": 52
+  },
+  {
+    "tipo": "picante",
+    "texto": "Alerta: pessoa muito atraente detetada no meu telemóvel. És tu. Sempre tu. 📱😍",
+    "id": 53
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até os dias normais parecem especiais. ✨💞",
+    "id": 54
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se não conseguires sorrir hoje, sorrio eu por ti. 😊💗",
+    "id": 55
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És mais forte do que aquilo que estás a sentir agora. 🌟",
+    "id": 56
+  },
+  {
+    "tipo": "amor",
+    "texto": "Eu sei que tu duvidas de ti. Eu nunca duvidei. 💗",
+    "id": 57
+  },
+  {
+    "tipo": "picante",
+    "texto": "Fiz as contas. Faltam poucas horas até te poder despir. Matemática linda. 🔢🔥",
+    "id": 58
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te sem condições, sem prazos e sem letras pequeninas. 💍❤️",
+    "id": 59
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje ofereço-te paciência, colo e chá. Escolhe a ordem. 🍵🤍",
+    "id": 60
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Um dia vais olhar para trás e ver o quanto aguentaste. Eu já vejo. 🌈",
+    "id": 61
+  },
+  {
+    "tipo": "amor",
+    "texto": "Nasci com sorte no dia em que te conheci. 🍀💛",
+    "id": 62
+  },
+  {
+    "tipo": "picante",
+    "texto": "Vou-te dizer bom dia com um beijo. E depois já não vai ser só um beijo. 😈💋",
+    "id": 63
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu para sempre. Sem plano B. ♾️💗",
+    "id": 64
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Vais conseguir. E se hoje não for hoje, tudo bem. Há amanhã. 🌙",
+    "id": 65
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje encontres uma coisa pequena que te faça sorrir. Nem que seja isto. 😊",
+    "id": 66
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se um dia te esqueceres do teu valor, chama-me. Eu tenho a lista toda. 📋💞",
+    "id": 67
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso: hoje à noite há sessão de mimos. Duração indeterminada. Roupa opcional. 😉🔥",
+    "id": 68
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi o que é ter paz. Obrigado por isso. 🕊️❤️",
+    "id": 69
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Amo-te exatamente como estás agora. Sem melhorias necessárias. 🤍",
+    "id": 70
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Bom dia, princesa dos meus dias cinzentos e dos outros também. 👑💛",
+    "id": 71
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de manhã, à tarde, à noite e nas madrugadas em que não dormes. 🌙💗",
+    "id": 72
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estás com aquele ar de quem precisa de ser beijada durante muito tempo. Eu trato disso. 💋😏",
+    "id": 73
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha história favorita e ainda faltam tantos capítulos. 📖💞",
+    "id": 74
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não precisas de ser produtiva para teres valor. Existes e isso chega. 🌸",
+    "id": 75
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje o mundo te parecer grande demais, encolhe-o para o tamanho de nós dois. 🤍",
+    "id": 76
+  },
+  {
+    "tipo": "amor",
+    "texto": "O meu lugar preferido é ao teu lado, mesmo quando não dizemos nada. 🤍",
+    "id": 77
+  },
+  {
+    "tipo": "picante",
+    "texto": "Pensamento aleatório: gosto muito de ti. E muito mais do teu pescoço. 😍💋",
+    "id": 78
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amar-te é a coisa mais fácil que faço todos os dias. ❤️",
+    "id": 79
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Tens direito a dias em baixo. Não peças desculpa por isso. 💜",
+    "id": 80
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje mando-te força em forma de mensagem. Amanhã em forma de abraço. 💪🫂",
+    "id": 81
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu sítio seguro. Sempre foste. 🏡💛",
+    "id": 82
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se o teu dia for mau, tenho um plano. Envolve chocolate, cama e pouca conversa. 🍫😈",
+    "id": 83
+  },
+  {
+    "tipo": "amor",
+    "texto": "Escolho-te nos dias fáceis. E ainda mais nos difíceis. 💍💗",
+    "id": 84
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a fazer o melhor que consegues. E isso é imenso. 🌱",
+    "id": 85
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tristeza também passa. Fica cá em casa, mas passa. 🌤️",
+    "id": 86
+  },
+  {
+    "tipo": "amor",
+    "texto": "O amor que sinto por ti não cabe numa mensagem. Mas tento todos os dias. 💌",
+    "id": 87
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho um problema sério: penso em ti demasiadas vezes e quase nunca vestida. 😅🔥",
+    "id": 88
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo qualquer sítio parece casa. 🏡❤️",
+    "id": 89
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se precisares de mim, chega chamares. Ou nem isso. 🤍",
+    "id": 90
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje sejas gentil contigo como és com toda a gente. 🌷",
+    "id": 91
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tenho a certeza de poucas coisas na vida. Tu és uma delas. 💞",
+    "id": 92
+  },
+  {
+    "tipo": "picante",
+    "texto": "Reparei que estás linda hoje. E ainda nem te vi. Tenho fé. 😏💕",
+    "id": 93
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo o teu cheiro, a tua voz e o teu mau humor de manhã. 😄💛",
+    "id": 94
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Um dia de cada vez. Uma respiração de cada vez. Eu estou aqui. 🌬️💚",
+    "id": 95
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Mesmo em silêncio, estou do teu lado. 🤍",
+    "id": 96
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até os problemas parecem mais pequenos. 💗",
+    "id": 97
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje apeteceu-me dizer-te uma coisa: tens o corpo mais bonito que os meus olhos conhecem. 😍🔥",
+    "id": 98
+  },
+  {
+    "tipo": "amor",
+    "texto": "A minha vida começou a fazer sentido depois de ti. ✨❤️",
+    "id": 99
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje custar, faz o mínimo. O mínimo também conta. 🌿",
+    "id": 100
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És amada por muita gente. E por mim de uma forma especial. 🤍",
+    "id": 101
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a razão pela qual eu acredito em coisas bonitas. 🌟",
+    "id": 102
+  },
+  {
+    "tipo": "picante",
+    "texto": "Notícia de última hora: o teu marido está com pensamentos muito impróprios. 📰😈",
+    "id": 103
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te mais hoje do que ontem. E isto repete-se sempre. 💞",
+    "id": 104
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje descansa sem culpa. Ordens do teu marido. 😴💜",
+    "id": 105
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não estás partida. Estás cansada. É diferente. 🤍",
+    "id": 106
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo tudo faz mais sentido, até o caos. 💛",
+    "id": 107
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho uma vontade louca de te morder o ombro. Só isso. Continua o teu dia. 😏💋",
+    "id": 108
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha pessoa preferida em qualquer versão tua. 💗",
+    "id": 109
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que o teu dia tenha pelo menos um momento bonito. Mereces mil. 🌸",
+    "id": 110
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se te esqueceres de comer, eu lembro. Se te esqueceres de te amar, também. 🍎🤍",
+    "id": 111
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te com a calma de quem sabe que fica. 🕊️❤️",
+    "id": 112
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se eu tivesse um euro por cada vez que te imaginei hoje... pagava-te umas férias. 💶😅",
+    "id": 113
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu tornaste a minha vida num sítio bom para viver. 🏡💞",
+    "id": 114
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje pensei em ti e sorri no meio do trabalho. Obrigado por isso. 😊",
+    "id": 115
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não tens de explicar como te sentes. Só tens de saber que eu fico. 🫂",
+    "id": 116
+  },
+  {
+    "tipo": "amor",
+    "texto": "O melhor de mim aconteceu depois de te conhecer. ✨",
+    "id": 117
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso à navegação: hoje não respondo por mim quando chegar a casa. 🚨🔥",
+    "id": 118
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te sem barulho, mas com uma força enorme. 💛",
+    "id": 119
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És linda quando ris, quando choras e quando estás calada. 🤍",
+    "id": 120
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje só quero que saibas: eu vejo o teu esforço. 💜",
+    "id": 121
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu para sempre em dias curtos e longos. ♾️❤️",
+    "id": 122
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje reparei que tenho uma mulher lindíssima. Só isso. Estou orgulhoso. 😍😄",
+    "id": 123
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até o café sabe melhor. ☕💞",
+    "id": 124
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje for daqueles dias, deixa-me tratar de ti. 🍵🤍",
+    "id": 125
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Está tudo bem em não estar tudo bem. 🌧️💗",
+    "id": 126
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a coisa mais bonita que já me aconteceu. 🌹",
+    "id": 127
+  },
+  {
+    "tipo": "picante",
+    "texto": "Sabes o que é bom? Tu. Sabes o que é melhor? Tu sem roupa. 🙈🔥",
+    "id": 128
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te por inteiro. Com sombras e com luz. 🌗❤️",
+    "id": 129
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje ofereço-te silêncio, colo e zero perguntas. 🤍",
+    "id": 130
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje o teu peito esteja mais leve. Eu peço isso por ti. 🕊️",
+    "id": 131
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se me perguntarem qual é a minha sorte, mostro-te a ti. 🍀💗",
+    "id": 132
+  },
+  {
+    "tipo": "picante",
+    "texto": "Proposta: banho demorado hoje. Eu levo o gel. Tu levas essa figura. 🛁😏",
+    "id": 133
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo quero envelhecer devagarinho. 👵👴❤️",
+    "id": 134
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a aguentar mais do que a maioria imagina. Eu sei. 💪🤍",
+    "id": 135
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Nunca te sintas um fardo. És a melhor parte da minha vida. 💛",
+    "id": 136
+  },
+  {
+    "tipo": "amor",
+    "texto": "Ainda me apaixono por ti em coisas pequenas. Hoje foi a tua voz. ❤️",
+    "id": 137
+  },
+  {
+    "tipo": "picante",
+    "texto": "Alerta de saudade: preciso urgentemente das tuas pernas à volta de mim. 🔥😈",
+    "id": 138
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha resposta favorita a quase todas as perguntas. 💗",
+    "id": 139
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Bom dia. Que hoje te aconteça alguma coisa boa. Mereces muitas. 🌞💛",
+    "id": 140
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje só te apetecer ficar na cama, fica. Eu levo o chá. 🍵🤍",
+    "id": 141
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de uma forma que não sei explicar mas que se sente. 💞",
+    "id": 142
+  },
+  {
+    "tipo": "picante",
+    "texto": "Fui ver a agenda. Estou livre para te beijar durante horas. 📅💋",
+    "id": 143
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi que o amor não é intenso, é constante. 🕯️❤️",
+    "id": 144
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Obrigado por continuares, mesmo quando é difícil continuar. 🌱",
+    "id": 145
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não estás a falhar. Estás a atravessar. É diferente. 🌊💜",
+    "id": 146
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu bocadinho de céu cá em baixo. ☁️💛",
+    "id": 147
+  },
+  {
+    "tipo": "picante",
+    "texto": "Diz-me uma coisa: quantas camadas de roupa tens? Estou a fazer planos. 😏🔥",
+    "id": 148
+  },
+  {
+    "tipo": "amor",
+    "texto": "Escolhi-te e escolho-te. Todos os dias, sem esforço nenhum. 💍💗",
+    "id": 149
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou aqui para os dias em que tu não consegues estar. 🫂",
+    "id": 150
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje te lembres de respirar fundo pelo menos três vezes. 🌬️🤍",
+    "id": 151
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te até nos dias em que tu não te aguentas. ❤️",
+    "id": 152
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje estás oficialmente convidada para o meu colo. Traje: nenhum. 😈💕",
+    "id": 153
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha calma no meio de tudo. 🕊️💞",
+    "id": 154
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tua tristeza não me afasta. Nunca afastou. 💜",
+    "id": 155
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje sê tua amiga. Trata-te como tratavas a tua melhor amiga. 🌸",
+    "id": 156
+  },
+  {
+    "tipo": "amor",
+    "texto": "Se tivesse de escolher outra vez, escolhia-te de olhos fechados. 💍",
+    "id": 157
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho um plano para esta noite. Só te digo que envolve gemidos. E cócegas. 😅🔥",
+    "id": 158
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo sinto-me em casa mesmo longe de casa. 🏡❤️",
+    "id": 159
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Um passo pequeno também é um passo. Estou orgulhoso. 👣💛",
+    "id": 160
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Podes vir para o meu ombro sempre que precisares. Está reservado. 🫂🤍",
+    "id": 161
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a melhor coisa que a vida me deu sem eu pedir. 🎁💗",
+    "id": 162
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a contar as horas para te tirar essas roupas todas com muita paciência. ⏳😏",
+    "id": 163
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te devagar, como quem quer que dure para sempre. ♾️💛",
+    "id": 164
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não te compares com ninguém. Nem com a tua versão de ontem. 🌿",
+    "id": 165
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje ofereço-te um dia sem cobranças. Nem minhas nem tuas. 🤍",
+    "id": 166
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até a rotina se tornou bonita. ☕💞",
+    "id": 167
+  },
+  {
+    "tipo": "picante",
+    "texto": "Confissão: às vezes finjo que estou a trabalhar mas estou a olhar para as tuas fotos. 📸😍",
+    "id": 168
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha pessoa em todos os cenários possíveis. 💗",
+    "id": 169
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És preciosa. Sobretudo quando não te sentes assim. 💎",
+    "id": 170
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje te sintas menos cansada e mais amada. 🤍",
+    "id": 171
+  },
+  {
+    "tipo": "amor",
+    "texto": "O meu coração escolheu-te e não quer segunda opinião. ❤️",
+    "id": 172
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso: hoje vou-te beijar mais do que o normal. Prepara os lábios. 💋🔥",
+    "id": 173
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te em silêncio e em barulho, em festa e em cansaço. 💛",
+    "id": 174
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje precisares de chorar, chora. Eu fico até acabar. 💧💜",
+    "id": 175
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a fazer um trabalho enorme só por estares aqui. 🌟",
+    "id": 176
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo o tempo passa depressa e mesmo assim quero mais. ⏳❤️",
+    "id": 177
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estás um perigo. E eu adoro perigos. 😈💕",
+    "id": 178
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a razão do meu sorriso parvo ao telemóvel. 😊💗",
+    "id": 179
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que o teu dia tenha um bocadinho de sol, mesmo que esteja a chover. 🌦️",
+    "id": 180
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Tudo bem se hoje o máximo que conseguires for existir. 🤍",
+    "id": 181
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha pessoa preferida do planeta inteiro. 🌍💞",
+    "id": 182
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se pudesse, passava o dia inteiro a redescobrir-te centímetro a centímetro. 😏🔥",
+    "id": 183
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te com uma certeza tranquila. Sem medos. 🕊️❤️",
+    "id": 184
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou do teu lado nas fases boas e nas outras todas. 🫂",
+    "id": 185
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje lembra-te: já sobreviveste a cem por cento dos teus piores dias. 💪🤍",
+    "id": 186
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo tudo é mais leve, até o que é pesado. 💛",
+    "id": 187
+  },
+  {
+    "tipo": "picante",
+    "texto": "Fizeste-me um efeito hoje de manhã que ainda não passou. 🙈🔥",
+    "id": 188
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu descanso e a minha festa ao mesmo tempo. 🎉💗",
+    "id": 189
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se te sentires perdida, eu sei o caminho de volta. É para os meus braços. 🧭🫂",
+    "id": 190
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje te tratem bem. A começar por ti. 🌷",
+    "id": 191
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te desde o primeiro dia e todos os dias desde então. 📅❤️",
+    "id": 192
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho aqui um lugar reservado para ti. É no meu colo e é vitalício. 😏💕",
+    "id": 193
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi que a felicidade é uma coisa simples. 💞",
+    "id": 194
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não desistas de ti. Eu nunca desisti. 🌱🤍",
+    "id": 195
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tua alma é bonita mesmo quando está cansada. ✨💜",
+    "id": 196
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha casa, a minha paz e o meu riso. 🏡💛",
+    "id": 197
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou com uma vontade enorme de te encostar à parede. Só para conversarmos, claro. 😈😅",
+    "id": 198
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amar-te é a melhor coisa que eu faço na vida. ❤️",
+    "id": 199
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje respira. Amanhã continuamos. 🌬️",
+    "id": 200
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje te sentires pequena, lembra-te do tamanho que tens no meu coração. 💗",
+    "id": 201
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo quero todos os dias, incluindo os chatos. 💛",
+    "id": 202
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje vestiste-te bem demais para eu conseguir comportar-me. 🔥😍",
+    "id": 203
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és aquela pessoa que eu procurava sem saber que procurava. ❤️",
+    "id": 204
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás aqui. Isso já é uma vitória enorme. 🏆🤍",
+    "id": 205
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Bom dia, meu amor. Que hoje o teu peito esteja mais leve que ontem. 🌤️💛",
+    "id": 206
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo o amor deixou de ser uma ideia e passou a ser um sítio. 🏡💗",
+    "id": 207
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se te apetecer fugir do mundo, tenho um esconderijo. São os meus lençóis. 😏",
+    "id": 208
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha mulher e ainda me orgulho de dizer isso em voz alta. 💍❤️",
+    "id": 209
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje for difícil, faz só o essencial. O resto espera. 🌿",
+    "id": 210
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não estás sozinha nesta luta. Somos dois. 🤝🤍",
+    "id": 211
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te em todas as tuas versões, incluindo esta. 💞",
+    "id": 212
+  },
+  {
+    "tipo": "picante",
+    "texto": "Pergunta rápida: estás sozinha? Porque tenho ideias. 😈📱",
+    "id": 213
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu porto seguro em qualquer tempestade. ⚓❤️",
+    "id": 214
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje encontres um bocadinho de paz. Nem que seja cinco minutos. 🕊️",
+    "id": 215
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás cansada, não estás fraca. Há uma diferença enorme. 💜",
+    "id": 216
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até respirar parece mais fácil. 🌬️💗",
+    "id": 217
+  },
+  {
+    "tipo": "picante",
+    "texto": "Adoro quando ficas com aquele olhar. O que diz vem cá. 😍🔥",
+    "id": 218
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de uma maneira que nem eu sabia que era possível. ❤️",
+    "id": 219
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje ofereço-te colo ilimitado. Sem data de validade. 🫂💛",
+    "id": 220
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje alguém te faça sorrir. Se falhar, eu tento. 😊",
+    "id": 221
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu bocadinho de sorte diária. 🍀💞",
+    "id": 222
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso importante: hoje há beijos até ficarmos sem ar. 💋🔥",
+    "id": 223
+  },
+  {
+    "tipo": "amor",
+    "texto": "Escolhi-te para a vida. E era pouco tempo. ♾️💍",
+    "id": 224
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Um dia mau não apaga tudo o que és. 🌱🤍",
+    "id": 225
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se te sentires em baixo, chama-me. A qualquer hora. Mesmo. 📞💛",
+    "id": 226
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha pessoa favorita para tudo. Até para não fazer nada. 💗",
+    "id": 227
+  },
+  {
+    "tipo": "picante",
+    "texto": "Confesso: fiquei a olhar para ti enquanto dormias. Depois tive pensamentos pouco santos. 😅😈",
+    "id": 228
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo sinto uma paz que não encontro em mais lado nenhum. 🕊️❤️",
+    "id": 229
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Está tudo bem em precisares de ajuda. Eu estou aqui para isso. 🤍",
+    "id": 230
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje sejas tratada com a doçura que dás aos outros. 🌸",
+    "id": 231
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te e isso não muda com o tempo nem com os dias maus. 💛",
+    "id": 232
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a pensar seriamente em faltar ao trabalho para ficar contigo na cama. 🛏️😏",
+    "id": 233
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu deste-me uma vida que eu não sabia que queria. 💞",
+    "id": 234
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje só conseguires levantar-te, já ganhaste o dia. 🌅💜",
+    "id": 235
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou orgulhoso de ti hoje. Como estive ontem. 🌟",
+    "id": 236
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até os dias iguais parecem diferentes. ✨❤️",
+    "id": 237
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tens um sorriso que me desarma e um corpo que me desarruma. 😍🔥",
+    "id": 238
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha razão preferida para chegar cedo a casa. 🏡💛",
+    "id": 239
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje descansa. O mundo aguenta-se sem ti umas horas. 😴🤍",
+    "id": 240
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não te julgues por não conseguires. Já consegues muito. 💗",
+    "id": 241
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te sem drama, sem barulho e para sempre. ❤️",
+    "id": 242
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje quero-te toda para mim. Sem pressas e sem roupa. 😈💕",
+    "id": 243
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és aquela paz que eu não sabia que precisava. 🕊️💗",
+    "id": 244
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje o teu coração esteja mais calmo. 🕊️",
+    "id": 245
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A vida está pesada mas tu não estás sozinha a carregá-la. 🫂💜",
+    "id": 246
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo quero fazer tudo. E também nada, desde que seja contigo. 💞",
+    "id": 247
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a avisar: hoje o jantar pode arrefecer. Vamos estar ocupados. 🔥😅",
+    "id": 248
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o melhor sim que já dei na vida. 💍❤️",
+    "id": 249
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje bebe água, respira e lembra-te que és amada. 💧🤍",
+    "id": 250
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a atravessar uma fase, não és a fase. 🌊💛",
+    "id": 251
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te em qualquer humor, em qualquer dia, em qualquer versão. 💗",
+    "id": 252
+  },
+  {
+    "tipo": "picante",
+    "texto": "Adoro a tua boca. Sobretudo quando não está a falar. 😏💋",
+    "id": 253
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu tornaste a minha vida mais bonita e nem deste por isso. ✨",
+    "id": 254
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje te aconteça alguma coisa que te faça rir alto. 😄",
+    "id": 255
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Podes descansar. Eu fico de vigia. 🌙🤍",
+    "id": 256
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi a ser melhor pessoa. Obrigado. 💛",
+    "id": 257
+  },
+  {
+    "tipo": "picante",
+    "texto": "Notei que estás muito bonita. Notei também que gostava de te despir. 😍🔥",
+    "id": 258
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de todas as maneiras que sei. E ando a aprender mais. ❤️",
+    "id": 259
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje custar respirar, respira comigo. Devagar. 🌬️💜",
+    "id": 260
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a fazer o teu melhor e isso vale tudo. 🌱",
+    "id": 261
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és o meu descanso ao fim do dia. 🌙💞",
+    "id": 262
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho um convite: cama, luz baixa, sem telemóveis. Aceitas? 😈💕",
+    "id": 263
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo o para sempre parece pouco. ♾️💗",
+    "id": 264
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje não te exijas nada. Só existe. 🤍",
+    "id": 265
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje o teu dia seja mais gentil do que tu esperas. 🌸",
+    "id": 266
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te hoje com a mesma força do primeiro dia. E mais um bocado. ❤️",
+    "id": 267
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se soubesses o que estou a pensar, corávamos os dois. 🙈🔥",
+    "id": 268
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha pessoa e isso não se discute. ❤️",
+    "id": 269
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tua presença já é presente. 🎁🤍",
+    "id": 270
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estou aqui e vou continuar aqui. Simples assim. 🫂💛",
+    "id": 271
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi que amar é ficar. E eu fico. 💍💗",
+    "id": 272
+  },
+  {
+    "tipo": "picante",
+    "texto": "Guardei energia o dia todo. É toda para ti hoje à noite. ⚡😏",
+    "id": 273
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te de uma forma simples e profunda. Sem complicações. 💞",
+    "id": 274
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Bom dia. Hoje o objetivo é só um: seres gentil contigo. 🌸💛",
+    "id": 275
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje for daqueles dias, avisa-me. Eu mudo o plano todo. 🤍",
+    "id": 276
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha melhor companhia, mesmo em silêncio. 🕊️❤️",
+    "id": 277
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a precisar de um abraço teu. Do tipo que acaba mal. Ou muito bem. 😈💋",
+    "id": 278
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a coisa mais bonita que já vi e já vi coisas bonitas. 🌹",
+    "id": 279
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a ser corajosa e nem dás por isso. 🦁💜",
+    "id": 280
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje o teu corpo descanse e a tua cabeça também. 😴🤍",
+    "id": 281
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo o mundo parece um sítio melhor. 🌍💗",
+    "id": 282
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho as mãos com saudades da tua pele. Um problema sério. 😏🔥",
+    "id": 283
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te em maiúsculas mas digo-te baixinho. ❤️",
+    "id": 284
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Não tens de sorrir para mim. Só tens de estar. 💛",
+    "id": 285
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje ofereço-te um dia sem julgamentos. Nem os teus. 🤍",
+    "id": 286
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a razão pela qual as coisas simples me fazem feliz. ☕💞",
+    "id": 287
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje só te digo isto: gosto muito de ti e ainda mais das tuas curvas. 😍💕",
+    "id": 288
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo tenho tudo o que preciso. Literalmente tudo. 💗",
+    "id": 289
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se te sentires triste hoje, tudo bem. Amanhã tentamos outra vez. 🌧️💜",
+    "id": 290
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a lutar todos os dias e eu vejo isso. 💪🤍",
+    "id": 291
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te sem prazo, sem condições e sem hipótese de desistir. ♾️❤️",
+    "id": 292
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a imaginar a tua boca. Não estou a imaginar conversa nenhuma. 💋😈",
+    "id": 293
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha vida bonita. 🌷💛",
+    "id": 294
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje trata a tua cabeça como tratarias o teu joelho magoado. Com cuidado. 🩹💛",
+    "id": 295
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje tenhas mais paz e menos peso. 🕊️",
+    "id": 296
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até esperar é bom. 💞",
+    "id": 297
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso: hoje vou ser muito carinhoso. E depois nem por isso. 😈😅",
+    "id": 298
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo o teu cabelo despenteado de manhã. É a minha imagem favorita. 😍❤️",
+    "id": 299
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Podes contar comigo mesmo às três da manhã. Sobretudo às três da manhã. 🌙🤍",
+    "id": 300
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje não conseguires nada, tudo bem. Já fizeste muito antes. 🌱",
+    "id": 301
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha história de amor preferida. 📖💛",
+    "id": 302
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estás linda. E estás a três horas de me ter em cima de ti. ⏳🔥",
+    "id": 303
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo aprendi que o amor não cansa quando é verdadeiro. ❤️",
+    "id": 304
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És mais amada do que aquilo que consegues sentir agora. 💗",
+    "id": 305
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que hoje o teu coração esteja um bocadinho mais leve. 🤍",
+    "id": 306
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha sorte grande. 🍀💗",
+    "id": 307
+  },
+  {
+    "tipo": "picante",
+    "texto": "Confissão do dia: penso em ti mais vezes despida do que vestida. Desculpa. 🙈😏",
+    "id": 308
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te com tudo o que tenho e com tudo o que sou. ❤️",
+    "id": 309
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje só quero que saibas que não estás sozinha. 🫂",
+    "id": 310
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que alguém te dê hoje o que tu dás aos outros. Se ninguém der, dou eu. 🌸🤍",
+    "id": 311
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu és a minha paz num mundo barulhento. 🕊️💞",
+    "id": 312
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje quero-te devagar. Muito devagar. Passo a passo. 😈💋",
+    "id": 313
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo quero envelhecer, discutir e fazer as pazes mil vezes. 👵👴❤️",
+    "id": 314
+  },
+  {
+    "tipo": "carinho",
+    "texto": "A tua dor é real e eu levo-a a sério. 💜",
+    "id": 315
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje faz uma coisa pequena por ti. Só uma. 🌿",
+    "id": 316
+  },
+  {
+    "tipo": "amor",
+    "texto": "És o meu lugar preferido em toda a parte. 🏡💗",
+    "id": 317
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho um pedido: manda-me uma foto. Tu escolhes o nível de perigo. 📸🔥",
+    "id": 318
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te e vou continuar a dizer isso até ficares farta. 💛",
+    "id": 319
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás a aguentar tanto e ainda te dás ao trabalho de sorrir. Obrigado. 😊💛",
+    "id": 320
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje respira devagar. Está tudo a correr melhor do que parece. 🌬️🤍",
+    "id": 321
+  },
+  {
+    "tipo": "amor",
+    "texto": "Tu fazes-me feliz de uma maneira calma e constante. 💞",
+    "id": 322
+  },
+  {
+    "tipo": "picante",
+    "texto": "A tua roupa fica-te bem. Mas ficas melhor sem ela. Facto. 😍🔥",
+    "id": 323
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo tudo vale a pena. ❤️",
+    "id": 324
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se precisares de silêncio, eu faço silêncio contigo. 🤍",
+    "id": 325
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Estás inteira, mesmo quando te sentes aos bocados. 🧩💜",
+    "id": 326
+  },
+  {
+    "tipo": "amor",
+    "texto": "És a minha melhor amiga e a mulher da minha vida. 💗",
+    "id": 327
+  },
+  {
+    "tipo": "picante",
+    "texto": "Reservei-nos a noite. Programa: tu, eu e pouca conversa. 🌙😏",
+    "id": 328
+  },
+  {
+    "tipo": "amor",
+    "texto": "Amo-te hoje, amanhã e em todos os dias que vierem. ♾️❤️",
+    "id": 329
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Que este dia te trate melhor do que o de ontem. 🌤️",
+    "id": 330
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje mando-te carinho em letras. Depois entrego pessoalmente. 💌🤍",
+    "id": 331
+  },
+  {
+    "tipo": "amor",
+    "texto": "Contigo até o fim do dia é bom, porque acaba ao teu lado. 🌙💞",
+    "id": 332
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a ficar com ciúmes do teu duche. Injusto. 🚿😈",
+    "id": 333
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Se hoje te sentires em baixo, lembra-te que isso passa. Sempre passou. 🌈",
+    "id": 334
+  },
+  {
+    "tipo": "carinho",
+    "texto": "És importante. Para mim és tudo. 💛",
+    "id": 335
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Hoje mando-te só isto: gosto muito de ti, exatamente como és. 🤍💛",
+    "id": 336
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso legal: quem se aproxima de mim hoje leva beijos. Só tu, por acaso. 💋😅",
+    "id": 337
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou com aquela vontade. Aquela mesmo. Sabes qual é. 😈🔥",
+    "id": 338
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se eu te contasse todos os planos que tenho para ti hoje, faltavas ao trabalho. 😏🔥",
+    "id": 339
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje apeteceu-me morder-te. Com carinho. Muito carinho. 😈💋",
+    "id": 340
+  },
+  {
+    "tipo": "picante",
+    "texto": "Alerta: mulher perigosamente sensual detetada na minha casa. 🚨😍",
+    "id": 341
+  },
+  {
+    "tipo": "picante",
+    "texto": "Preciso de ti. E não é para conversar. 🔥😏",
+    "id": 342
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho um sonho recorrente. És tu, eu e nenhum lençol. 😈💤",
+    "id": 343
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou com uma vontade absurda de te ouvir dizer o meu nome baixinho. 😏🔥",
+    "id": 344
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso: hoje há mãos frias e intenções muito quentes. 🥶🔥",
+    "id": 345
+  },
+  {
+    "tipo": "picante",
+    "texto": "Ideia para hoje: fechar a porta e desligar o telemóvel. Duas horas. 🚪😈",
+    "id": 346
+  },
+  {
+    "tipo": "picante",
+    "texto": "A tua cintura anda a dar-me ideias que não posso escrever aqui. 😍🔥",
+    "id": 347
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a fazer contagem decrescente para te ter só de roupa interior. ⏳😏",
+    "id": 348
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se estivesses aqui agora, já não estarias vestida. Só isto. 😈💋",
+    "id": 349
+  },
+  {
+    "tipo": "picante",
+    "texto": "Adoro quando te ris e o teu decote se mexe. Sou humano. 😅🔥",
+    "id": 350
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje o meu plano é simples: despir-te devagar e não ter pressa nenhuma. 😏🔥",
+    "id": 351
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou oficialmente viciado em ti. Sobretudo na parte do pescoço. 💋😈",
+    "id": 352
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho uma reunião importante hoje à noite. É contigo. Sem agenda. 😈🌙",
+    "id": 353
+  },
+  {
+    "tipo": "picante",
+    "texto": "Aviso à população: hoje vou beijar a minha mulher até ela ficar tonta. 💋🔥",
+    "id": 354
+  },
+  {
+    "tipo": "picante",
+    "texto": "Se pudesse escolher um sítio para estar agora, era debaixo dos teus lençóis. 🛏️😏",
+    "id": 355
+  },
+  {
+    "tipo": "picante",
+    "texto": "Sabes o que combina bem com este dia? Tu, em cima de mim. 😈🔥",
+    "id": 356
+  },
+  {
+    "tipo": "picante",
+    "texto": "Tenho pensamentos impuros e a culpa é toda tua. 🙈🔥",
+    "id": 357
+  },
+  {
+    "tipo": "picante",
+    "texto": "Hoje quero-te sem pressa, sem roupa e sem interrupções. 😏💋",
+    "id": 358
+  },
+  {
+    "tipo": "picante",
+    "texto": "Adoro a tua voz de manhã. E adoro ainda mais quando ela fica mais grave. 😈😍",
+    "id": 359
+  },
+  {
+    "tipo": "picante",
+    "texto": "Estou a olhar para o relógio a pensar em quanto falta para te tocar. ⏰🔥",
+    "id": 360
+  },
+  {
+    "tipo": "amor",
+    "texto": "Feliz Ano Novo, meu amor. Mais um ano contigo é o melhor presente que a vida me dá. 🎆❤️",
+    "data": "01-01",
+    "id": 361
+  },
+  {
+    "tipo": "amor",
+    "texto": "Feliz Dia dos Namorados. Foste, és e vais ser sempre a minha escolha. 💘🌹",
+    "data": "02-14",
+    "id": 362
+  },
+  {
+    "tipo": "carinho",
+    "texto": "Feliz Natal, meu amor. A minha prenda favorita és tu, todos os anos. 🎄💛",
+    "data": "12-24",
+    "id": 363
+  },
+  {
+    "tipo": "amor",
+    "texto": "Bom Natal, minha mulher linda. Que tenhamos muitos mais juntos. 🎁❤️",
+    "data": "12-25",
+    "id": 364
+  },
+  {
+    "tipo": "amor",
+    "texto": "Último dia do ano. Obrigado por mais um ano ao meu lado. Vamos a mais um. 🥂💞",
+    "data": "12-31",
+    "id": 365
+  }
+]
