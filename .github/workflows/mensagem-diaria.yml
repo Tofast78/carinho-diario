@@ -1,0 +1,52 @@
+name: Mensagem diária
+
+on:
+  schedule:
+    # O GitHub agenda em UTC. As duas linhas cobrem o horário de verão e de inverno
+    # em Portugal continental; o enviar.py confirma a hora de Lisboa antes de enviar.
+    - cron: '59 11 * * *'   # 12:59 em Portugal (horário de verão)
+    - cron: '59 12 * * *'   # 12:59 em Portugal (horário de inverno)
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: 'Que tipo de mensagem enviar'
+        required: true
+        default: 'aleatoria'
+        type: choice
+        options: [aleatoria, carinho, amor, picante, diaria]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mensagem
+  cancel-in-progress: false
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Enviar mensagem
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+        run: python enviar.py --tipo "${{ inputs.tipo || 'diaria' }}"
+
+      - name: Guardar o registo
+        run: |
+          if [[ -n "$(git status --porcelain docs/registo.json)" ]]; then
+            git config user.name  "mensagens-bot"
+            git config user.email "actions@github.com"
+            git add docs/registo.json
+            git commit -m "Registo de envio"
+            git push
+          else
+            echo "Nada para registar."
+          fi
