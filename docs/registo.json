@@ -1,5 +1,14 @@
 [
   {
+    "id": 230,
+    "tipo": "carinho",
+    "texto": "Está tudo bem em precisares de ajuda. Eu estou aqui para isso. 🤍",
+    "quando": "2026-08-20T13:31:53+01:00",
+    "data": "2026-08-20",
+    "hora": "13:31",
+    "extra": false
+  },
+  {
     "id": 229,
     "tipo": "amor",
     "texto": "Contigo sinto uma paz que não encontro em mais lado nenhum. 🕊️❤️",
