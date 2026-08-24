@@ -1,5 +1,14 @@
 [
   {
+    "id": 234,
+    "tipo": "amor",
+    "texto": "Tu deste-me uma vida que eu não sabia que queria. 💞",
+    "quando": "2026-08-24T13:32:15+01:00",
+    "data": "2026-08-24",
+    "hora": "13:32",
+    "extra": false
+  },
+  {
     "id": 233,
     "tipo": "picante",
     "texto": "Estou a pensar seriamente em faltar ao trabalho para ficar contigo na cama. 🛏️😏",
