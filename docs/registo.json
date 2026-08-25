@@ -1,5 +1,14 @@
 [
   {
+    "id": 235,
+    "tipo": "carinho",
+    "texto": "Se hoje só conseguires levantar-te, já ganhaste o dia. 🌅💜",
+    "quando": "2026-08-25T13:32:23+01:00",
+    "data": "2026-08-25",
+    "hora": "13:32",
+    "extra": false
+  },
+  {
     "id": 234,
     "tipo": "amor",
     "texto": "Tu deste-me uma vida que eu não sabia que queria. 💞",
