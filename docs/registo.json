@@ -1,5 +1,14 @@
 [
   {
+    "id": 236,
+    "tipo": "carinho",
+    "texto": "Estou orgulhoso de ti hoje. Como estive ontem. 🌟",
+    "quando": "2026-08-26T13:35:53+01:00",
+    "data": "2026-08-26",
+    "hora": "13:35",
+    "extra": false
+  },
+  {
     "id": 235,
     "tipo": "carinho",
     "texto": "Se hoje só conseguires levantar-te, já ganhaste o dia. 🌅💜",
