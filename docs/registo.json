@@ -1,5 +1,14 @@
 [
   {
+    "id": 123,
+    "tipo": "picante",
+    "texto": "Hoje reparei que tenho uma mulher lindíssima. Só isso. Estou orgulhoso. 😍😄",
+    "quando": "2026-08-28T17:17:46+01:00",
+    "data": "2026-08-28",
+    "hora": "17:17",
+    "extra": true
+  },
+  {
     "id": 186,
     "tipo": "carinho",
     "texto": "Hoje lembra-te: já sobreviveste a cem por cento dos teus piores dias. 💪🤍",
