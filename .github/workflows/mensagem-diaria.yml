@@ -2,10 +2,15 @@ name: Mensagem diária
 
 on:
   schedule:
-    # O GitHub agenda em UTC. As duas linhas cobrem o horário de verão e de inverno
-    # em Portugal continental; o enviar.py confirma a hora de Lisboa antes de enviar.
-    - cron: '59 11 * * *'   # 12:59 em Portugal (horário de verão)
-    - cron: '59 12 * * *'   # 12:59 em Portugal (horário de inverno)
+    # O GitHub corre isto em UTC e costuma atrasar-se HORAS. Por isso há várias
+    # tentativas ao longo do dia: a primeira que apanhar o dia por enviar manda
+    # a mensagem, e todas as seguintes saem logo a dizer "já foi enviada".
+    - cron: '59 11 * * *'   # 12:59 em Portugal (verão)
+    - cron: '59 12 * * *'   # 12:59 em Portugal (inverno) / 13:59 (verão)
+    - cron: '29 14 * * *'   # rede de segurança
+    - cron: '29 16 * * *'   # rede de segurança
+    - cron: '29 18 * * *'   # rede de segurança
+    - cron: '29 20 * * *'   # última oportunidade do dia
   workflow_dispatch:
     inputs:
       tipo:
@@ -14,6 +19,11 @@ on:
         default: 'aleatoria'
         type: choice
         options: [aleatoria, carinho, amor, picante, diaria]
+      forcar:
+        description: 'Forçar o envio da diária mesmo fora de horas'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -37,7 +47,10 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
-        run: python enviar.py --tipo "${{ inputs.tipo || 'diaria' }}"
+        run: |
+          python enviar.py \
+            --tipo "${{ inputs.tipo || 'diaria' }}" \
+            ${{ inputs.forcar == true && '--forcar' || '' }}
 
       - name: Guardar o registo
         run: |
@@ -46,6 +59,8 @@ jobs:
             git config user.email "actions@github.com"
             git add docs/registo.json
             git commit -m "Registo de envio"
+            # se entretanto entrou outro commit, rebase antes de empurrar
+            git pull --rebase --autostash origin main || true
             git push
           else
             echo "Nada para registar."
