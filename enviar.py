@@ -35,6 +35,9 @@ with open(CONFIG, encoding="utf-8") as f:
 FUSO = ZoneInfo(cfg.get("fuso", "Europe/Lisbon"))
 HORA_ENVIO = int(cfg.get("hora_envio", 13))
 MINUTO_ENVIO = int(cfg.get("minuto_envio", 5))
+# Hora (em Portugal) a partir da qual já é tarde demais para enviar a mensagem
+# do dia. 23 = envia até às 23:59. Põe 22 se não quiseres mensagens à meia-noite.
+HORA_LIMITE = int(cfg.get("hora_limite", 23))
 NOME_DELA = cfg["nome_dela"]
 ASSINATURA = cfg.get("assinatura", "O teu marido")
 
@@ -81,6 +84,18 @@ def escolher_mensagem(mensagens, registo, agora, tipo):
     pool = [m for m in mensagens if tipo in ("aleatoria", m["tipo"])]
     frescas = [m for m in pool if m["id"] not in recentes] or pool
     return random.choice(frescas)
+
+
+def ja_enviada_hoje(registo, agora):
+    """Já saiu hoje a mensagem diária? (as extras não contam)"""
+    hoje = agora.strftime("%Y-%m-%d")
+    for e in registo:
+        if e.get("extra"):
+            continue
+        quando = e.get("quando") or e.get("data") or ""
+        if quando.startswith(hoje):
+            return True
+    return False
 
 
 def corpo_html(m, agora, extra):
@@ -159,19 +174,32 @@ def main():
         print("Não encontrei mensagens.json"); sys.exit(1)
 
     extra = args.tipo != "diaria"
+    print(f"Agora são {agora:%Y-%m-%d %H:%M} em Portugal (tipo: {args.tipo}).")
 
     if not extra and not args.forcar:
-        # O GitHub corre os workflows em UTC e costuma atrasar-se uns minutos.
-        # Enviamos se já passou a hora certa em Portugal, dentro de uma janela de 90 min.
-        atraso = (agora.hour * 60 + agora.minute) - (HORA_ENVIO * 60 + MINUTO_ENVIO)
-        if not 0 <= atraso <= 90:
-            print(f"Agora são {agora:%H:%M} em Portugal. Envio é às "
-                  f"{HORA_ENVIO:02d}:{MINUTO_ENVIO:02d}. A sair.")
-            return
-        hoje = agora.strftime("%Y-%m-%d")
-        if any(e["quando"].startswith(hoje) and not e.get("extra") for e in registo):
+        # 1) Já foi enviada hoje? Então não há nada a fazer.
+        if ja_enviada_hoje(registo, agora):
             print("A mensagem de hoje já foi enviada. A sair.")
             return
+
+        # 2) Ainda é cedo? Espera pela próxima corrida do dia.
+        #    O GitHub corre os workflows em UTC e ATRASA-SE bastante (já vimos
+        #    4 a 5 horas). Por isso NÃO há janela máxima: a partir da hora certa,
+        #    a primeira corrida do dia envia — mais vale tarde do que nunca.
+        agora_min = agora.hour * 60 + agora.minute
+        hora_certa = HORA_ENVIO * 60 + MINUTO_ENVIO
+        if agora_min < hora_certa:
+            print(f"Ainda é cedo (envio às {HORA_ENVIO:02d}:{MINUTO_ENVIO:02d}). A sair.")
+            return
+
+        # 3) Já é tarde demais? (por omissão só desiste depois das 23:59)
+        if agora.hour > HORA_LIMITE:
+            print(f"Já passa das {HORA_LIMITE:02d}h — não envio a esta hora. A sair.")
+            return
+
+        atraso = agora_min - hora_certa
+        if atraso > 30:
+            print(f"Aviso: o GitHub atrasou-se {atraso} minutos. A enviar na mesma.")
 
     m = escolher_mensagem(mensagens, registo, agora, args.tipo)
     enviar_email(m, agora, extra)
