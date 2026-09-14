@@ -1,5 +1,14 @@
 [
   {
+    "id": 255,
+    "tipo": "carinho",
+    "texto": "Que hoje te aconteça alguma coisa que te faça rir alto. 😄",
+    "quando": "2026-09-14T18:20:05+01:00",
+    "data": "2026-09-14",
+    "hora": "18:20",
+    "extra": false
+  },
+  {
     "id": 254,
     "tipo": "amor",
     "texto": "Tu tornaste a minha vida mais bonita e nem deste por isso. ✨",
