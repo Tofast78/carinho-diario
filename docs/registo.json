@@ -1,5 +1,14 @@
 [
   {
+    "id": 300,
+    "tipo": "carinho",
+    "texto": "Podes contar comigo mesmo às três da manhã. Sobretudo às três da manhã. 🌙🤍",
+    "quando": "2026-10-29T17:50:55+00:00",
+    "data": "2026-10-29",
+    "hora": "17:50",
+    "extra": false
+  },
+  {
     "id": 299,
     "tipo": "amor",
     "texto": "Amo o teu cabelo despenteado de manhã. É a minha imagem favorita. 😍❤️",
