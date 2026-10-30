@@ -1,5 +1,14 @@
 [
   {
+    "id": 301,
+    "tipo": "carinho",
+    "texto": "Se hoje não conseguires nada, tudo bem. Já fizeste muito antes. 🌱",
+    "quando": "2026-10-30T17:32:01+00:00",
+    "data": "2026-10-30",
+    "hora": "17:32",
+    "extra": false
+  },
+  {
     "id": 300,
     "tipo": "carinho",
     "texto": "Podes contar comigo mesmo às três da manhã. Sobretudo às três da manhã. 🌙🤍",
