@@ -1,5 +1,14 @@
 [
   {
+    "id": 306,
+    "tipo": "carinho",
+    "texto": "Que hoje o teu coração esteja um bocadinho mais leve. 🤍",
+    "quando": "2026-11-04T19:10:27+00:00",
+    "data": "2026-11-04",
+    "hora": "19:10",
+    "extra": false
+  },
+  {
     "id": 305,
     "tipo": "carinho",
     "texto": "És mais amada do que aquilo que consegues sentir agora. 💗",
