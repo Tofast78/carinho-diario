@@ -1,5 +1,14 @@
 [
   {
+    "id": 321,
+    "tipo": "carinho",
+    "texto": "Hoje respira devagar. Está tudo a correr melhor do que parece. 🌬️🤍",
+    "quando": "2026-11-19T19:48:34+00:00",
+    "data": "2026-11-19",
+    "hora": "19:48",
+    "extra": false
+  },
+  {
     "id": 320,
     "tipo": "carinho",
     "texto": "Estás a aguentar tanto e ainda te dás ao trabalho de sorrir. Obrigado. 😊💛",
