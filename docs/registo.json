@@ -1,5 +1,14 @@
 [
   {
+    "id": 325,
+    "tipo": "carinho",
+    "texto": "Se precisares de silêncio, eu faço silêncio contigo. 🤍",
+    "quando": "2026-11-23T23:09:17+00:00",
+    "data": "2026-11-23",
+    "hora": "23:09",
+    "extra": false
+  },
+  {
     "id": 324,
     "tipo": "amor",
     "texto": "Contigo tudo vale a pena. ❤️",
